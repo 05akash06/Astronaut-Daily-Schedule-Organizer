@@ -4,7 +4,7 @@ This is a simple, console-based Java application designed to manage an astronaut
 
 ## Key Design Patterns
 
-The application uses three key design patterns to ensure robust, clean, and maintainable code:
+The application uses three key design patterns to ensure robust, clean, and maintainable code
 
 1.  **Singleton Pattern**: Used in `ScheduleManager` to ensure only one instance of the schedule exists.
 2.  **Factory Pattern**: Used in `TaskFactory` to handle task creation and centralize input validation.
