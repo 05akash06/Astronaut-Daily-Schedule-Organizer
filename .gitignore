@@ -1,0 +1,13 @@
+# Compiled Java class files
+*.class
+
+# Log files (for future logging implementation)
+*.log
+
+# Package Files (.jar, .war, .nar, .ear, .zip)
+*.jar
+*.war
+*.zip
+
+# Virtual machine error logs
+*.log
