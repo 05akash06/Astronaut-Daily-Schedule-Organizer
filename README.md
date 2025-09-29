@@ -1,4 +1,4 @@
-# 🚀 Astronaut Daily Schedule Organizer
+#  Astronaut Daily Schedule Organizer
 
 This is a simple, console-based Java application designed to manage an astronaut's daily tasks. It implements core CRUD (Create, Read, Update, Delete) functionality with strong error handling, especially for time conflicts.
 
